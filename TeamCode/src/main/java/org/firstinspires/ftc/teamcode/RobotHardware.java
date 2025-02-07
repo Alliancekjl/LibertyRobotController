@@ -79,8 +79,8 @@ public class RobotHardware {
         bRight.setPower(v4/n);
     }
 
-    public void servoUp()
-    {
-        servo1.setPosition(SERVO_FINAL);
-    }
+//    public void servoUp()
+//    {
+//        servo1.setPosition(SERVO_FINAL);
+//    }
 }
